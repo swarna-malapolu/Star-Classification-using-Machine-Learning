@@ -5,3 +5,7 @@ Key highlights:
 - Performed various Exploratory Data Analysis to understand the data and compare the variables.
 - Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
 - Compared the results to recommend the best Logistic model. 
+
+COLAB NOTEBOOK LINK: https://github.com/swarna-malapolu/Star-Classification-using-Machine-Learning/blob/main/HDS_PROJECT_G9_Star_Classification_ipynb.ipynb
+
+PROJECT PRESENTATION LINK:https://drive.google.com/file/d/1jlJGn6nfm7P816TasMYDDrg_fRFbyO8w/view?usp=share_link
